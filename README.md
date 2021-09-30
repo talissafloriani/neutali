@@ -1,3 +1,7 @@
+title: [The beginner] 
+description: [Every expert was once a beginner]
+
+
 ## About
 
 My name is Talissa Floriani and here we will discuss about science in general, science (genetics and plant breeding or any related field), and we will highlight things important to the improvement of a scientific career. 
@@ -11,8 +15,8 @@ You can finde me:
 [Linkedin](https://www.linkedin.com/in/talissa-floriani-714971101/)
 [Twitter](https://twitter.com/talissafloriani)
 
- or sending an email to: talisafloriani@usp.br
-Statistical Genetics Lab
-Department of Genetics
-Luiz de Queiroz College of Agriculture
-University of São Paulo
+Or sending an email to: talisafloriani@usp.br
+Statistical Genetics Lab  
+Department of Genetics  
+Luiz de Queiroz College of Agriculture  
+University of São Paulo   
